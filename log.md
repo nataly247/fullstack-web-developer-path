@@ -18,4 +18,9 @@ Day : 1   January, 8
 **Thing(s) learned**:
 
 
+TO LEARN NEXT:
+
+https://github.com/verekia/js-stack-from-scratch/
+
+
 
