@@ -6,11 +6,12 @@
 
 **Start Date** : 
 
-Day :
+Day : 1   January, 8
 ------
-**Today's Progress** :
+**Today's Progress** :  Udemy "Build Your First Website in 1 Week with HTML5 and CSS3", 
+                        Flatiron School - "Introduction to JavaScript"
 
-**Thoughts** :
+**Thoughts** :  Revised the basics
 
 **Link to work** :
 
